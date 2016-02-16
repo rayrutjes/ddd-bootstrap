@@ -2,6 +2,7 @@
 
 namespace RayRutjes\DddBootstrap\Model;
 
+use RayRutjes\DddEssentials\Model\AggregateRoot;
 use RayRutjes\DddEssentials\Model\DomainEvent;
 use RayRutjes\DddEssentials\Messaging\GenericMessageStream;
 use RayRutjes\DddEssentials\Messaging\MessageStream;
